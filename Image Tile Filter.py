@@ -1,4 +1,4 @@
-Image Tile Filter.py
+
 
 def copy_image(image):
   New_image=[] #cretes new list
